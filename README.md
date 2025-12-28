@@ -141,21 +141,7 @@ Online streaming support
 Nahin Rahman
 Freelancer | Java Developer | UI Enthusiast
 
-📄 License
-This project is created for educational purposes and can be freely modified and reused.
 
-yaml
-Copy code
-
----
-
-If you want, I can also:
-- Add **screenshots section**
-- Convert this into a **project report**
-- Shorten it for **college submission**
-- Customize it for **GitHub profile**
-
-Just tell me 👍
 
 
 
